@@ -5,15 +5,9 @@
 **A Python-powered learning diary that helps you find, practise, and retain forgotten knowledge.**
 
 <p align="center">
-  <img src="docs/images/conceptgl1.jpeg" alt="GhostLog concept mockup 1" width="900" />
-</p>
-
-<p align="center">
-  <img src="docs/images/conceptgl2.jpeg" alt="GhostLog concept mockup 2" width="900" />
-</p>
-
-<p align="center">
-  <img src="docs/images/conceptgl3.jpeg" alt="GhostLog concept mockup 3" width="900" />
+  <img src="docs/images/conceptgl1.jpeg" alt="GhostLog concept mockup 1" width="32%" />
+  <img src="docs/images/conceptgl2.jpeg" alt="GhostLog concept mockup 2" width="32%" />
+  <img src="docs/images/conceptgl3.jpeg" alt="GhostLog concept mockup 3" width="32%" />
 </p>
 
 *Concept mockups — planned features and interface ideas; not screenshots of a working application.*
